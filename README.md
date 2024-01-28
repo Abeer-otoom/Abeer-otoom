@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abeer Otoom</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Full Stack  Web Laravel Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abeer-otoom&label=Profile%20views&color=0e75b6&style=flat" alt="abeer-otoom" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [BetaQatcom](https://betaqatcom.it-appsfactory.com/login)
 
-- 🌱 I’m currently learning **Vuejs3**
+- 🌱 I’m currently learning **LiveWire**
 
 - 👯 I’m looking to collaborate on [fawaterk](http://fawaterk.it-appsfactory.com/)
 
